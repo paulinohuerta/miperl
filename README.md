@@ -4,6 +4,7 @@ Primeros pasos con perl
 Antes de comenzar, debemos tener en cuenta:
 - Tener instalado apache
 - Habilitado modulo apache CGID
+- Colocar info.pl en /usr/lib/cgi-bin/
 
 Mi script consiste en abrir un archivo llamado datos.txt, que contienes estas lineas
 
