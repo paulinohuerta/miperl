@@ -9,6 +9,7 @@ Antes de comenzar, debemos tener en cuenta:
 Mi script consiste en abrir un archivo llamado datos.txt, que contienes estas lineas
 
 21,azul,btt,iespsur,elena
+
 21,rojo,btt,iespsur,juana
 
 Una vez dentro, nos pida por un formulario que elijamos un nombre
