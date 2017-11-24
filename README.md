@@ -6,7 +6,7 @@ Antes de comenzar, debemos tener en cuenta:
 - Habilitado modulo apache CGID
 - Colocar info.pl en /usr/lib/cgi-bin/
 
-Mi script consiste en abrir un archivo llamado datos.txt, que contienes estas lineas
+Mi script info.pl consiste en abrir un archivo llamado datos.txt, que contienes estas lineas
 
 21,azul,btt,iespsur,elena
 
