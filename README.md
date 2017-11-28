@@ -5,6 +5,7 @@ Antes de comenzar, debemos tener en cuenta:
 - Tener instalado apache
 - Habilitado modulo apache CGID
 - Colocar info.pl en /usr/lib/cgi-bin/
+- Dar permisos de ejecucion: # sudo chmod 777 /usr/lib/cgi-bin/info.pl
 
 Mi script info.pl consiste en abrir un archivo llamado datos.txt, que contienes estas lineas
 
