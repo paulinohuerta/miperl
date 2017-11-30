@@ -1,5 +1,5 @@
 # miperl
-Primeros pasos con perl
+### Primeros pasos con perl
 
 Antes de comenzar, debemos tener en cuenta:
 - Tener instalado apache
@@ -7,13 +7,13 @@ Antes de comenzar, debemos tener en cuenta:
 - Colocar info.pl en /usr/lib/cgi-bin/
 - Dar permisos de ejecucion: # sudo chmod 777 /usr/lib/cgi-bin/info.pl
 
-Mi script info.pl consiste en abrir un archivo llamado datos.txt, que contienes estas lineas
+El script info.pl consiste en abrir un archivo previamente creado en /tmp/datos.txt, que contienes líneas como las siguientes:
 
 21,azul,btt,iespsur,elena
-
 21,rojo,btt,iespsur,juana
 
-Una vez dentro, nos pida por un formulario que elijamos un nombre
-y al elegir el nombre, nos muestre la info de dicha persona*.
+* Nos pide rellenar un formulario con un nombre que elejimos como opción.     
+Nos muestra como respuesta la información existente en el registro de
+dicho nombre.    
 
-*He conseguido que me muestre el nombre, pero mi objetivo final de que me muestre toda la linea del fichero no lo he conseguido.
+* He conseguido que me muestre el nombre, pero mi objetivo final de que me muestre toda la linea del fichero no lo he conseguido.
